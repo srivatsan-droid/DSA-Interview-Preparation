@@ -3,18 +3,25 @@
     "configurations": [
         {
             "type": "java",
+            "name": "threeSum",
+            "request": "launch",
+            "mainClass": "Blind_75.TwoPointers.threeSum",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
             "name": "TopKFrequentElements",
             "request": "launch",
             "mainClass": "Blind_75.Arrays.TopKFrequentElements",
             "projectName": "DSA - Interview Practice_db8aea15",
-            "console": "internalConsole" // <--- ADD THIS LINE
+            "console": "internalConsole"
         },
         {
             "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "console": "internalConsole" // <--- ADD THIS LINE AS WELL
+            "console": "internalConsole"
         }
     ]
 }
