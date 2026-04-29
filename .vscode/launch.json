@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReorderList",
+            "request": "launch",
+            "mainClass": "Blind_75.LinkedList.ReorderList",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
             "name": "threeSum",
             "request": "launch",
             "mainClass": "Blind_75.TwoPointers.threeSum",
