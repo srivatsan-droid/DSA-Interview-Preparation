@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "subTreeOfAnotherTree",
+            "request": "launch",
+            "mainClass": "Blind_75.Trees.subTreeOfAnotherTree",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
+            "name": "SameTree",
+            "request": "launch",
+            "mainClass": "Blind_75.Trees.SameTree",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
+            "name": "MaxDepthOfTree",
+            "request": "launch",
+            "mainClass": "Blind_75.Trees.MaxDepthOfTree",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
+            "name": "RemoveNthNodeFromEndOfList",
+            "request": "launch",
+            "mainClass": "Blind_75.LinkedList.RemoveNthNodeFromEndOfList",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
             "name": "ReorderList",
             "request": "launch",
             "mainClass": "Blind_75.LinkedList.ReorderList",
