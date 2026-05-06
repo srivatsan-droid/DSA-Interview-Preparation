@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidateBinarySearchTree",
+            "request": "launch",
+            "mainClass": "Blind_75.Trees.ValidateBinarySearchTree",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
+            "name": "InvertBinaryTree",
+            "request": "launch",
+            "mainClass": "Blind_75.Trees.InvertBinaryTree",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
             "name": "subTreeOfAnotherTree",
             "request": "launch",
             "mainClass": "Blind_75.Trees.subTreeOfAnotherTree",
