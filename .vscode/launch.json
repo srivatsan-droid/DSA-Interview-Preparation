@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KthSmallestMain",
+            "request": "launch",
+            "mainClass": "Blind_75.Trees.KthSmallestMain",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
+            "name": "LevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "Blind_75.Trees.LevelOrderTraversal",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
             "name": "ValidateBinarySearchTree",
             "request": "launch",
             "mainClass": "Blind_75.Trees.ValidateBinarySearchTree",
