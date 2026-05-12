@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LCABinarySearchTree",
+            "request": "launch",
+            "mainClass": "Blind_75.Trees.LCABinarySearchTree",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
+            "name": "ConstructBinaryTree",
+            "request": "launch",
+            "mainClass": "Blind_75.Trees.ConstructBinaryTree",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
+            "name": "SumOfTwoIntegers",
+            "request": "launch",
+            "mainClass": "Blind_75.BitManipulation.SumOfTwoIntegers",
+            "projectName": "DSA - Interview Practice_db8aea15"
+        },
+        {
+            "type": "java",
             "name": "KthSmallestMain",
             "request": "launch",
             "mainClass": "Blind_75.Trees.KthSmallestMain",
